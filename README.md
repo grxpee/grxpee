@@ -9,7 +9,7 @@ https://www.grxpefruit.xyz
   <a href="https://twitter.com/grxpevfx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://steamcommunity.com/profiles/76561198348187169"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
 </p>
-<img src="https://camo.githubusercontent.com/d96814e5ab17c482b4a20a11aebbdca5e8cb845ac7108ae67703cb0c6df4d681/68747470733a2f2f6c616e796172642e636e7261642e6465762f6170692f333535303034353930363032383436323038](https://lanyard.cnrad.dev/api/459413827751247922)" alt="Discord Presence" data-canonical-src="https://lanyard.cnrad.dev/api/459413827751247922" style="max-width: 100%;">
+[![Discord Presence](https://lanyard.cnrad.dev/api/459413827751247922)](https://discord.com/users/459413827751247922)
 <p align="center">
 <h3 align="center">Languages I've worked with</h3>
 <p align="center">
