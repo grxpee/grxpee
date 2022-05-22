@@ -2,7 +2,6 @@
   <a href="https://www.grxpefruit.xyz"><img src="https://media.discordapp.net/attachments/847494515773538344/976071577642872842/c0aeac74408237.5c2ecf7c6e9be_1.png" alt="grxpe Banner" width="100%"></a>
 </p>
 <p align="center">
-- grxpe -
 https://www.grxpefruit.xyz
 <p align="center">
  <a href="https://s.tcno.co/AccSwitcherDiscord"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Discord"></a>
