@@ -8,8 +8,8 @@ https://www.grxpefruit.xyz
  <a href="https://s.tcno.co/AccSwitcherDiscord"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Discord"></a>
   <a href="https://twitter.com/grxpevfx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://steamcommunity.com/profiles/76561198348187169"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+  <a href="https://discord.com/users/459413827751247922"><img src="https://lanyard.cnrad.dev/api/459413827751247922" alt="Discord"></a>
 </p>
-<a href="https://discord.com/users/459413827751247922"><img src="https://lanyard.cnrad.dev/api/459413827751247922" alt="Discord"></a>
 <p align="center">
 <h3 align="center">Languages I've worked with</h3>
 <p align="center">
